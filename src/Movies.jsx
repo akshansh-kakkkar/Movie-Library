@@ -1,6 +1,10 @@
 import React, { useState } from 'react'
 import moviesData from "./Movies.json"
 const Movies = () => {
+  const [loading, setLoading] = useState(false);
+  const [genre, setGenre] = useState("All");
+  const [movies, setMovies] = useState(moviesData);
+  const [searchTerm, setSearchTerm] = useState("")
     
   return (
     <div>
