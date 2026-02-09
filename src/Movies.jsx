@@ -63,7 +63,7 @@ const Movies = () => {
           ))}
         </div>
       </div>
-      {filteredMovies.length <0}
+      
       <div className="flex justify-center">
         {loading ? (
           <div>
