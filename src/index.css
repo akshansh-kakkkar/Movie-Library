@@ -1,1 +1,43 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+.text{
+    color: rgb(255, 213, 0);
+    text-shadow:1px 1px 0 #a16207, 2px 2px 0 #854d0e, 3px 3px 0 #713f12, 4px 4px 0 #422006, 6px 6px 10px rgba(0,0,0,0.4);
+
+}
+
+.box{
+    background-color: #004a5579;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.text2{
+    color: rgb(255, 213, 0);
+    text-shadow:2px 2px 0 #854d0e, 3px 3px 0 #713f12, 6px 6px 10px rgba(0,0,0,0.4);
+
+}
+
+.Super-hit{
+    background-color: #ff0000;
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    border-radius: 8px;
+    padding: 3px;
+    font-size: 1.3rem;
+}
+
+.hit{
+    background-color: rgb(187, 187, 0);
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    border-radius: 8px;
+    padding: 3px;
+    font-size: 1.3rem;
+}
+
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
