@@ -10,7 +10,7 @@
       "year": 2010,
       "director": "Christopher Nolan",
       "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
-      "image": "./src/Images/Inception.jpg",
+      "image": "/Images/Inception.jpg",
       "alt": "Inception movie poster"
     },
     {
@@ -22,7 +22,7 @@
       "year": 2008,
       "director": "Christopher Nolan",
       "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
-      "image": "./src/Images/DarkKnight.jpg",
+      "image": "/Images/DarkKnight.jpg",
       "alt": "The Dark Knight movie poster"
     },
     {
@@ -34,7 +34,7 @@
       "year": 2014,
       "director": "Christopher Nolan",
       "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
-      "image": "./src/Images/InterStellar.jpg",
+      "image": "/Images/InterStellar.jpg",
       "alt": "Interstellar movie poster"
     },
     {
@@ -46,7 +46,7 @@
       "year": 2019,
       "director": "Russo Brothers",
       "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"],
-      "image": "./src/Images/EndGame.jpg",
+      "image": "/Images/EndGame.jpg",
       "alt": "Avengers Endgame movie poster"
     },
     {
@@ -58,7 +58,7 @@
       "year": 1997,
       "director": "James Cameron",
       "cast": ["Leonardo DiCaprio", "Kate Winslet"],
-      "image": "./src/Images/Titanic.jpg",
+      "image": "/Images/Titanic.jpg",
       "alt": "Titanic movie poster"
     },
     {
@@ -70,7 +70,7 @@
       "year": 1993,
       "director": "Steven Spielberg",
       "cast": ["Sam Neill", "Laura Dern", "Jeff Goldblum"],
-      "image": "./src/Images/Jurrasicpark.jpg",
+      "image": "/Images/Jurrasicpark.jpg",
       "alt": "Jurassic Park movie poster"
     },
     {
@@ -82,7 +82,7 @@
       "year": 1999,
       "director": "Wachowski Sisters",
       "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
-      "image": "./src/Images/Matrix.jpg",
+      "image": "/Images/Matrix.jpg",
       "alt": "The Matrix movie poster"
     },
     {
@@ -94,7 +94,7 @@
       "year": 2000,
       "director": "Ridley Scott",
       "cast": ["Russell Crowe", "Joaquin Phoenix"],
-      "image": "./src/Images/Gladiator.jpg",
+      "image": "/Images/Gladiator.jpg",
       "alt": "Gladiator movie poster"
     },
     {
@@ -106,7 +106,7 @@
       "year": 1994,
       "director": "Robert Zemeckis",
       "cast": ["Tom Hanks", "Robin Wright"],
-      "image": "./src/Images/Forrest.jpg",
+      "image": "/Images/Forrest.jpg",
       "alt": "Forrest Gump movie poster"
     },
     {
@@ -118,7 +118,7 @@
       "year": 1994,
       "director": "Roger Allers",
       "cast": ["Matthew Broderick", "Jeremy Irons", "James Earl Jones"],
-      "image": "./src/Images/Lionking.jpg",
+      "image": "/Images/Lionking.jpg",
       "alt": "The Lion King movie poster"
     },
     {
@@ -130,7 +130,7 @@
       "year": 2021,
       "director": "Jon Watts",
       "cast": ["Tom Holland", "Zendaya", "Benedict Cumberbatch"],
-      "image": "./src/Images/Spiderman.jpg",
+      "image": "/Images/Spiderman.jpg",
       "alt": "Spider Man No Way Home movie poster"
     },
     {
@@ -142,7 +142,7 @@
       "year": 2016,
       "director": "Scott Derrickson",
       "cast": ["Benedict Cumberbatch", "Tilda Swinton"],
-      "image": "./src/Images/Doctorstrange.jpg",
+      "image": "/Images/Doctorstrange.jpg",
       "alt": "Doctor Strange movie poster"
     },
     {
@@ -154,7 +154,7 @@
       "year": 1994,
       "director": "Frank Darabont",
       "cast": ["Tim Robbins", "Morgan Freeman"],
-      "image": "./src/Images/Shashwank.jpg",
+      "image": "/Images/Shashwank.jpg",
       "alt": "The Shawshank Redemption movie poster"
     },
     {
@@ -166,7 +166,7 @@
       "year": 2019,
       "director": "Todd Phillips",
       "cast": ["Joaquin Phoenix", "Robert De Niro"],
-      "image": "./src/Images/Joker.jpg",
+      "image": "/Images/Joker.jpg",
       "alt": "Joker movie poster"
     },
     {
@@ -178,7 +178,7 @@
       "year": 2013,
       "director": "Chris Buck",
       "cast": ["Kristen Bell", "Idina Menzel"],
-      "image": "./src/Images/Frozen.jpg",
+      "image": "/Images/Frozen.jpg",
       "alt": "Frozen movie poster"
     },
     {
@@ -190,7 +190,7 @@
       "year": 2022,
       "director": "Joseph Kosinski",
       "cast": ["Tom Cruise", "Miles Teller"],
-      "image": "./src/Images/Toggun.jpg",
+      "image": "/Images/Toggun.jpg",
       "alt": "Top Gun Maverick movie poster"
     },
     {
@@ -202,7 +202,7 @@
       "year": 2001,
       "director": "Chris Columbus",
       "cast": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"],
-      "image": "./src/Images/Harrypotter.jpg",
+      "image": "/Images/Harrypotter.jpg",
       "alt": "Harry Potter and the Sorcerers Stone movie poster"
     },
     {
@@ -214,7 +214,7 @@
       "year": 2001,
       "director": "Peter Jackson",
       "cast": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"],
-      "image": "./src/Images/Lordofrings.jpg",
+      "image": "/Images/Lordofrings.jpg",
       "alt": "Lord of the Rings Fellowship of the Ring movie poster"
     },
     {
@@ -226,7 +226,7 @@
       "year": 2018,
       "director": "Ryan Coogler",
       "cast": ["Chadwick Boseman", "Michael B. Jordan"],
-      "image": "./src/Images/Blackpanther.jpg",
+      "image": "/Images/Blackpanther.jpg",
       "alt": "Black Panther movie poster"
     },
     {
@@ -238,7 +238,7 @@
       "year": 2014,
       "director": "James Gunn",
       "cast": ["Chris Pratt", "Zoe Saldana", "Dave Bautista"],
-      "image": "./src/Images/Guardians.jpg",
+      "image": "/Images/Guardians.jpg",
       "alt": "Guardians of the Galaxy movie poster"
     }
   ]
