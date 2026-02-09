@@ -6,6 +6,7 @@ const Movies = () => {
   const [movie, setMovies] = useState(moviesData.movies);
   const [searchTerm, setSearchTerm] = useState("");
   const [sortby, setSortby] = useState("title");
+
   const Rating = (rating) => {
     if (rating >= 8.5) {
       return "Super-hit";
